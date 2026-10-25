@@ -1,8 +1,8 @@
 # OS_01
 
 #คำสั่งในการ run
-- cd src
-- javac *.java
+-cd src
+-javac *.java
 
 -java Main jobs_standard.csv fcfs 3 1 2
 
