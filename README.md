@@ -1,6 +1,7 @@
 # OS_01
 
 #คำสั่งในการ run
+- Chcp 65001
 - cd src
 - javac *.java
 
